@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="421bf675-67c2-4519-b0e4-109902ae3f3e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/java-exercises.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Flipcoin.java" beforeDir="false" afterPath="$PROJECT_DIR$/Flipcoin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kinematics.java" beforeDir="false" afterPath="$PROJECT_DIR$/Kinematics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/Matrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumberGuess.java" beforeDir="false" afterPath="$PROJECT_DIR$/NumberGuess.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StarPyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/StarPyramid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Temperature.java" beforeDir="false" afterPath="$PROJECT_DIR$/Temperature.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Timer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Timer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserName.java" beforeDir="false" afterPath="$PROJECT_DIR$/UserName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hypotenuse.java" beforeDir="false" afterPath="$PROJECT_DIR$/hypotenuse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weekday.java" beforeDir="false" afterPath="$PROJECT_DIR$/weekday.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weightConvert.java" beforeDir="false" afterPath="$PROJECT_DIR$/weightConvert.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Ankith-Achar-27"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Ankith-Achar-27/Java-Exercises.git",
+    "accountId": "d0a87a7d-8cf5-4126-ad34-fdf9f861478f"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="3FUwBv1IhiCMk0Lk128rZWwpM7r" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="421bf675-67c2-4519-b0e4-109902ae3f3e" name="Changes" comment="" />
+      <created>1782142824137</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1782142824137</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
