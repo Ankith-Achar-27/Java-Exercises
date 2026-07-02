@@ -2,10 +2,9 @@
 
 .idea/
 *.iml
-
 # Build output
 
-/out/
+out/
 
 # Logs
 
